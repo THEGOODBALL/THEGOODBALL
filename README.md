@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: he/him
 
-https://github-readme-stats.vercel.app/api?username=thegoodball&theme=tokyonight&show_icons=true&hide_border=true&count_private=true
+[![THEGOODBALL's GitHub stats](https://github-readme-stats.vercel.app/api?THEGOODBALL=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
