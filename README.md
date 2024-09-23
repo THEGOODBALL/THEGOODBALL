@@ -36,7 +36,7 @@
 
   <div>
     <p align="center">
-      <a href="https://github.com/THEGOODBALL"> <img height="200px" src="https://github-readme-stats-notchapple1703-vercel.vercel.app/api?username=THEGOODBALL&include_all_commits=true&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"> </a>
+      <a href="https://github.com/THEGOODBALL"> <img height="200px" src="https://github-readme-stats-THEGOODBALL-vercel.vercel.app/api?username=THEGOODBALL&include_all_commits=true&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"> </a>
       <a href="https://github.com/THEGOODBALL"> <img height="200px" src="https://github-readme-stats-THEGOODBALL-vercel.vercel.app/api/top-langs/?username=THEGOODBALL&theme=tokyonight&layout=donut&show_icon=true&hide_border=true"> </a>
     </p>
   </div>
