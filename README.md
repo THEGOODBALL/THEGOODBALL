@@ -43,7 +43,6 @@
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEGOODBALL&theme=tokyonight&layout=donut&show_icons=true&hide_border=false">
 </a>
 
-    </p>
   </div>
   
 </details>
