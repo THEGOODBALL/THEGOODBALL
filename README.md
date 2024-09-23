@@ -8,6 +8,7 @@
   Gender: 'Male 👦' 
   Education Level: 'High School 📖'
   Hobbies: 'Minecraft 🎮, Music 🎵, Minecraft Music 👽, Coding'
+  Fun fact: 'Don't all me Nerd! Call me big brain!'
   ```
 </details>
 
