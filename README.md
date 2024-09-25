@@ -28,9 +28,10 @@
   </p>
 </details>
 
+
 <details open>
   <summary>
-    <h2 align="center">Github Stats 📈</h2>
+    <strong>Github Stats 📈</strong>
   </summary>
 
   <div align="center">
@@ -43,6 +44,7 @@
   </div>
   
 </details>
+
 
 
 [![](https://visitcount.itsvg.in/api?id=THEGOODBALL&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
