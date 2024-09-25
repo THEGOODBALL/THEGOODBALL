@@ -8,7 +8,6 @@
   Gender: 'Male 👦' 
   Education Level: 'High School 📖'
   Hobbies: 'Minecraft 🎮, Music 🎵, Minecraft Music 👽, Coding'
-  Fun fact: 'Don't all me Nerd! Call me big brain!'
   ```
 </details>
 
@@ -36,24 +35,14 @@
 
   <div>
     <p align="center">
-<a href="https://github.com/THEGOODBALL">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=thegoodball&include_all_commits=true&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
-</a>
-<a href="https://github.com/THEGOODBALL">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegoodball&theme=tokyonight&layout=donut&show_icons=true&hide_border=false">
-</a>
-
+      <a href="https://github.com/thegoodball"> <img height="200px" src="https://github-readme-stats-thegoodball-vercel.vercel.app/api?username=thegoodball&include_all_commits=true&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"> </a>
+      <a href="https://github.com/thegoodball"> <img height="200px" src="https://github-readme-stats-thegoodball-vercel.vercel.app/api/top-langs/?username=thegoodball&theme=tokyonight&layout=donut&show_icon=true&hide_border=false"> </a>
+    </p>
   </div>
   
 </details>
 
 
-
-
-
-
-
 [![](https://visitcount.itsvg.in/api?id=THEGOODBALL&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/21a3bd99-e8f4-4ee1-b643-fefdf6cd5639/deploy-status)](https://app.netlify.com/sites/mycooltools/deploys)
-
