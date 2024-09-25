@@ -29,21 +29,15 @@
   </p>
 </details>
 
-<details open>
-  <summary>
-    <strong>GitHub Stats 📈</strong>
-  </summary>
-
-  <div align="center">
-    <a href="https://github.com/THEGOODBALL">
-      <img height="200px" src="https://github-readme-stats.vercel.app/api?username=THEGOODBALL&include_all_commits=true&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
-    </a>
-    <a href="https://github.com/THEGOODBALL">
-      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEGOODBALL&theme=tokyonight&layout=donut&show_icons=true&hide_border=false">
-    </a>
-  </div>
-  
-</details>
+<h2 align="center">GitHub Stats 📈</h2>
+<div align="center">
+  <a href="https://github.com/THEGOODBALL">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=THEGOODBALL&include_all_commits=true&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
+  </a>
+  <a href="https://github.com/THEGOODBALL">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEGOODBALL&theme=tokyonight&layout=donut&show_icons=true&hide_border=false">
+  </a>
+</div>
 
 
 
