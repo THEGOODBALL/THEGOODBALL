@@ -45,8 +45,6 @@
   <a href="https://youtube.com/@THEGOODBALLYT"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=flat&logo=youtube&logoColor=white"></a>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=THEGOODBALL&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
 [![Netlify Status](https://api.netlify.com/api/v1/badges/21a3bd99-e8f4-4ee1-b643-fefdf6cd5639/deploy-status)](https://app.netlify.com/sites/mycooltools/deploys)
 
 <p align="center">
