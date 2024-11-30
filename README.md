@@ -6,6 +6,36 @@
   <a href="https://github.com/THEGOODBALL"><img src="https://visitcount.itsvg.in/api?id=vanish&amp;label=Profile%20Views&amp;color=11&amp;icon=6&amp;pretty=true"></a>
 </p>
 
+<details open>
+  <summary>
+    <h2 align="center">About me 🤓☝️</h2>
+  </summary>
+
+  ```py
+  Name: '¯\_(ツ)_/¯'
+  Gender: 'Male 👦' 
+  Education Level: 'High School 📖'
+  Hobbies: 'Minecraft 🎮, Music 🎵, Minecraft Music 👽, Coding'
+  ```
+</details>
+
+<details open>
+  <summary>
+    <h2 align="center">My Skills 📖🔍</h2>
+  </summary>
+
+  <p align="center">
+    <h3>- Languages:</h3> 
+    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=powershell,bash,c,cpp,py,lua,html,css,js"> </a>
+    <h3>- Frameworks and Libraries:</h3>
+    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=flutter,selenium,fastapi,gtk,qt"> </a>
+    <h3>- Tools</h3>
+    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,githubactions,neovim,vscode,pycharm"> </a>
+    <h3>- Operating Systems</h3>
+    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=windows,linux"> </a>
+  </p>
+</details>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=7B00FF&center=true&vCenter=true&width=380&lines=Hey+I'm+THEGOODBALL;I'm+a+Python+Developer;I+Made+Tools+Such+As..;Minecraft+redeem+code+gen;Free+tools;and much more!" alt="Typing SVG">
 </p>
