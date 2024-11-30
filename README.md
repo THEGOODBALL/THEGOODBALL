@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/1116602877369122894" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1116602877369122894?bg=7b00ff&borderRadius=30px&idleMessage=Probably%20coding%20a%20tool%20or%20something">
+    <img src="https://lanyard.cnrad.dev/api/1116602877369122894?bg=7b00ff&borderRadius=30px&idleMessage=Probably%20doing%20nothing">
   </a>
 </p>
 
