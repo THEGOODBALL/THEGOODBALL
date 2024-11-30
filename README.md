@@ -52,7 +52,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEGOODBALL&layout=compact&title_color=5c64f4&text_color=7b00ff&bg_color=00000000&hide_border=true&count_private=true" />
 </p>
-
+</details>
 ---
 
 <p align="center">
