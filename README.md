@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://github.com/THEGOODBALL?tab=followers"><img src="https://img.shields.io/github/followers/THEGOODBALL?label=Follow&style=social"></a>
   <a href="https://dsc.gg/wolfcm" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/THEGOODBALL"><img src="https://visitcount.itsvg.in/api?id=vanish&amp;label=Profile%20Views&amp;color=11&amp;icon=6&amp;pretty=true"></a>
 </p>
 
 <details open>
@@ -36,7 +35,7 @@
   </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=7B00FF&center=true&vCenter=true&width=380&lines=Hey+I'm+THEGOODBALL;I'm+a+Python+Developer;I+Made+Tools+Such+As..;Minecraft+redeem+code+gen;Free+tools;and much more!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=7B00FF&center=true&vCenter=true&width=380&lines=Hey+I'm+THEGOODBALL;I'm+a+Python+Developer;I+Made+Tools+Such+As...;Minecraft+redeem+code+gen;Free+tools;and much more!" alt="Typing SVG">
 </p>
 </details>
 
@@ -53,10 +52,6 @@
 </p>
 </details>
 
-
-<p align="center">
-  <strong>Owner of <a href="https://freetools.netlify.app/" target="_blank">Free Tools</a></strong>
-</p>
 
 <p align="center">
   <a href="https://github.com/THEGOODBALL?tab=repositories"><img src="https://img.shields.io/badge/-Explore%20my%20Repos-24292e?style=for-the-badge&logo=Github"></a>
