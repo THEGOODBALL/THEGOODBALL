@@ -39,7 +39,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=7B00FF&center=true&vCenter=true&width=380&lines=Hey+I'm+THEGOODBALL;I'm+a+Python+Developer;I+Made+Tools+Such+As..;Minecraft+redeem+code+gen;Free+tools;and much more!" alt="Typing SVG">
 </p>
 </details>
----
+
 <details open>
   <summary>
     <strong>Github Stats 📈</strong>
@@ -52,7 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEGOODBALL&layout=compact&title_color=5c64f4&text_color=7b00ff&bg_color=00000000&hide_border=true&count_private=true" />
 </p>
 </details>
----
+
 
 <p align="center">
   <strong>Owner of <a href="https://freetools.netlify.app/" target="_blank">Free Tools</a></strong>
@@ -68,7 +68,7 @@
   </a>
 </p>
 
----
+
 
 <p align="center">
   <i>Socials</i>
@@ -81,8 +81,8 @@
 
 <p align="center">
   <br>
-  <strong>"My favourite quote :
-    No matter how good you are at programming, bugs will still appear."</strong>
+  <strong>My favourite quote :      
+    "No matter how good you are at programming, bugs will still appear."</strong>
 </p>
 
 ### ✍️ Random Dev Quote
