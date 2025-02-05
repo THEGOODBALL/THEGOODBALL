@@ -81,5 +81,9 @@
 
 <p align="center">
   <br>
-  <strong>"No matter how good you are at programming, bugs will still appear."</strong>
+  <strong>"My favourite quote :
+    No matter how good you are at programming, bugs will still appear."</strong>
 </p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
